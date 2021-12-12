@@ -22,5 +22,5 @@ Instantly join a video call with a code.
 Chat in real-time.
 ## Screenshots
 
-![App Screenshot](client/public/assets/VideoCallSS.png)
+![App Screenshot](images/VideoCallSS.png)
 
