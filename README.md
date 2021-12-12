@@ -13,13 +13,13 @@ It is a video calling application where users can call other user.
 
 [WebRTC](https://www.npmjs.com/package/simple-peer)
 ## Features
-Video Call with others.
+-Video Call with others.
 
-Unlimited duration calls.
+-Unlimited duration calls.
 
-Instantly join a video call with a code.
+-Instantly join a video call with a code.
 
-Chat in real-time.
+-Chat in real-time.
 ## Screenshots
 
 ![App Screenshot](images/VideoCallSS.png)
